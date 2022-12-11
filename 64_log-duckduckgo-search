@@ -1,6 +1,15 @@
+# Codigo 19: MKLOCATEDB
+
+## ¿Que hace?
+Genera un pequeño buscador
+### **Observaciones**
+Funciona directamente
+
+```bash
+
 #!/bin/bash
 
-logfile="/var/www/wicked/scripts/searchlog.txt"
+logfile="/searchlog.txt"
 
 if [ ! -f $logfile ] ; then
   touch $logfile
@@ -15,3 +24,5 @@ echo "Location: https://duckduckgo.com/html/?$QUERY_STRING"
 echo ""
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
