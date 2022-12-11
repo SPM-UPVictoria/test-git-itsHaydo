@@ -1,6 +1,6 @@
 # Codigo 11: AnsiColor
 
-## Funcionalidad
+## ¿Que hace?
 Implementar comando para visualizar la salida de texto modificada en colores
 
 ### **Anotaciones**
