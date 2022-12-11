@@ -1,3 +1,12 @@
+# Codigo 48: Verifycron
+
+## ¿Que hace?
+Busca en un archivo .cron si existe algun error
+
+### **Observaciones**
+Funciona directamente
+```bash
+
 #!/bin/bash
 validNum()
 {
@@ -108,3 +117,5 @@ done < $1
 echo "Done. Found $totalerrors errors in $entries crontab entries."
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
