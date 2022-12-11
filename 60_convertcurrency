@@ -1,3 +1,12 @@
+# Codigo 19: MKLOCATEDB
+
+## ¿Que hace?
+Hace un cambio de monedas entre las mas comunes
+
+### **Observaciones**
+La pagina que realizaba esto dejo de exixtir, asi que no se puede ejecutar
+```bash
+
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
@@ -39,3 +48,5 @@ $lynx -source "$url?a=$amount&from=$basecurrency&to=$targetcurrency" | \
   grep 'id=currency_converter_result' | sed 's/<[^>]*>//g'
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
