@@ -1,4 +1,4 @@
-# Codigo 64:log-duckduckgo-search
+# Codigo 64 : log-duckduckgo-search
 
 ## ¿Que hace?
 Genera un pequeño buscador
