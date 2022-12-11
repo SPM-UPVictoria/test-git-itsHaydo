@@ -1,3 +1,12 @@
+# Codigo 82: open2
+
+## ¿Que hace?
+Es como el comando open pero de una mejor manera
+
+### **Observaciones**
+Funicona directamente
+```bash
+
 #!/bin/bash
 
 if ! open "$@" >/dev/null 2>&1 ; then
@@ -26,3 +35,5 @@ if ! open "$@" >/dev/null 2>&1 ; then
 fi
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
