@@ -1,3 +1,19 @@
+# Codigo 53: FTPDOWNLOAD
+
+## ¿Que hace?
+Descarga un archivo FTP mediante codigo
+
+### **Observaciones**
+Requiere el paquete inetutils para el comando ftp
+
+## Instalar inetuils en ArchLinux
+```
+sudo pacman -S inetutils
+```
+
+
+```bash
+
 #!/bin/bash
 
 anonpass="$LOGNAME@$(hostname)"
@@ -30,3 +46,6 @@ if [ $? -eq 0 ] ; then
 fi
 
 exit 0
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
