@@ -1,3 +1,12 @@
+# Codigo 41: Suspender
+
+## ¿Que hace?
+Modifica y cambio permisos al usuario  
+
+### **Observaciones**
+Tiene que ser ejecutado como root
+
+```bash
 #!/bin/bash
 
 #TENEMOS QUE EJECUTARLO CON ROOT#
@@ -50,3 +59,6 @@ chmod 000 $homedir/$1
 echo "Account $1 has been suspended."
 
 exit 0
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
