@@ -1,10 +1,10 @@
 # Codigo 38: DiskSpace
 
 ## ¿Que hace?
-
+Muestra el espacio total en GB del equipo en uso
 
 ### **Observaciones**
-Tiene que ser ejecutado como root
+Se puede ejecutar directamente
 
 ```bash
 
@@ -24,3 +24,4 @@ EOF
 df -k | awk -f $tempfile
 exit 0
 ```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
