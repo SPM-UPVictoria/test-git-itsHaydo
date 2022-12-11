@@ -28,4 +28,8 @@ fi
 exec sftp -C $account@$host
 ```
 
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/31.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
