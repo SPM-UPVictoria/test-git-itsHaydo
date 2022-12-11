@@ -1,4 +1,10 @@
+# Codigo 68: tooLong
 
+## ¿Que hace?
+Toma una frase de un archivo txt
+
+### **Observaciones**
+Funciona directamente
 ```bash
 
 #!/bin/bash
