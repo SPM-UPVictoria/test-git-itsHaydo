@@ -1,10 +1,9 @@
 # Codigo 81: ituneslist
 
 ## ¿Que hace?
-Convierte las primeras 72 lineas de un archivo de texto para que puedan ser interpretadas
-
+Muestra las libreias de la cerptea de Itunes
 ### **Observaciones**
-El codigo no tiene ninguna observacion
+Se tiene que cambiar en caso de no tener Itunes, pero por lo demas todo bien
 
 ```bash
 
