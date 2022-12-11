@@ -24,5 +24,16 @@ find / -print > $locatedb
 
 exit 0
 ```
+## Codigo 2 del Script 19
+
+```bash
+#!/bin/sh
+
+locatedb="/tmp/locate.db"
+
+exec grep -i "$@" $locatedb
+
+```
+
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
