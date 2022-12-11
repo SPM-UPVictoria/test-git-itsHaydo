@@ -1,3 +1,13 @@
+# Codigo 44: fixguest
+
+## ¿Que hace?
+Detras de un usuario de paso limpia todo
+
+### **Observaciones**
+No logro convertime en usuario de paso y solo llegamos al primer 'if', pero si funciona
+ 
+```bash
+
 #!/bin/bash
 
 #Este codigo no muestra nada si se ejecuta, solamente al salir elimina las cosas
@@ -20,3 +30,5 @@ cd $myhome
 rm -rf * $(find . -name ".[a-zA-Z0-9]*" -print)
 cp -Rp ..template/* .
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
