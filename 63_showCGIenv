@@ -1,3 +1,11 @@
+# Codigo 63: showCGIenv
+
+## ¿Que hace?
+Simple imprime codigo html
+### **Observaciones**
+Ninguna
+
+```bash
 #!/bin/bash
 
 echo "Content-type: text/html"
@@ -13,3 +21,5 @@ cat -
 echo "(end of input stream)</pre></body></html>"
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
