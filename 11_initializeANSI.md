@@ -36,6 +36,6 @@ initializeANSI
 ```
 ### **Resultados**
 
-![https://github.com/SPM-UPVictoria/test-git-itsHaydo/capturas/11.png](https://github.com/SPM-UPVictoria/test-git-itsHaydo/capturas/11.png)
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/11.png)
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
