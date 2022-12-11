@@ -4,7 +4,7 @@
 Implementar comando para visualizar la salida de texto modificada en colores
 
 ### **Anotaciones**
-Cambie el cat >> EOF usado para imprimir por un echo -e
+Al ejecutarlo no funciona, ya que he modificado mi terminal en archlinux para que sea mas util, estas utilidades no me permiten mostrar texto en algun otro color
 
 ```bash
 #!/bin/bash
