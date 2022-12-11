@@ -1,3 +1,22 @@
+# Codigo 45: setdate
+
+## ¿Que hace?
+Este codigo cambia la fecha del computador
+
+### **Observaciones**
+Agregamos el codigo 'Library'
+
+## 'Library'
+```bash
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/5_validint
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/6_validfloat
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/8_echon
+```
+
+
+## Code
+```bash
+
 #!/bin/bash
 
 . /home/haydo/Escritorio/CodigosMantenimiento/library.sh
@@ -27,3 +46,5 @@ echo "Setting date to $squished. You might need to enter your sudo password:"
 sudo date $squished
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
