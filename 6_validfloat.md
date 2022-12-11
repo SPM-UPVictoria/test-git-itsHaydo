@@ -1,3 +1,13 @@
+# Codigo 6: validFloat
+
+## ¿Que hace?
+Valida si se agrego un numero con decimales
+
+### **Observaciones**
+necesitamos el archivo 5_validint que se encuentra en la carpeta
+
+```bash
+
 #!/bin/bash  
 . /home/haydo/Escritorio/CodigosMantenimiento/5_validint
 
@@ -44,3 +54,4 @@ if validfloat $1 ; then
 fi
 
 exit 0
+```
