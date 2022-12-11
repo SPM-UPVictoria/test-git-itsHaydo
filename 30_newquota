@@ -1,3 +1,17 @@
+# Codigo 30: newQuota
+
+## ¿Que hace?
+El comando quota muestra nuevas flags
+
+### **Observaciones**
+Tiene que ser instalado el comando quota-tools
+
+## Instalacion en Archlinux
+```
+sudo pacman -S quota-tools
+```
+
+```bash
 #!/bin/bash
 flags=""
 realquota="$(which quota)"
@@ -15,3 +29,6 @@ do
   esac
 done
 exec $realquota $flags "$@"
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
