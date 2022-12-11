@@ -1,4 +1,10 @@
-#!/bin/bash
+# Codigo 85: states
+
+## ¿Que hace?
+Juego para adivinar las capitales
+### **Observaciones**
+Ninugna
+```bash
 
 db="/usr/lib/games/state.capitals.txt"    
 
@@ -44,3 +50,5 @@ done
 
 echo "You got $correct out of $total presented."
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
