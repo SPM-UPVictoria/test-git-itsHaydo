@@ -1,4 +1,4 @@
-# Codigo 19: MKLOCATEDB
+# Codigo 22: tooLong
 
 ## ¿Que hace?
 Convierte las primeras 72 lineas de un archicvo de texto para que puedan ser interpretadas
