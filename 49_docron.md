@@ -1,3 +1,13 @@
+# Codigo 49: Docron
+
+## ¿Que hace?
+Busca en la carpeta Crontab para ver si tiene algo que hacer diario, semanal o mensual
+
+### **Observaciones**
+Tiene que ser ejecutado como root
+
+```bash
+
 #!/bin/bash
 
 rootcron="/etc/crontab"   
@@ -20,4 +30,6 @@ fi
 
 SHELL='which sh'          
 
-eval $job              
+eval $job       
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
