@@ -1,15 +1,10 @@
 # Codigo 86: Is Prime
 
-## Funcionalidad
-Indica si un numero es primo o no
+## ¿Que hace?
+Marcara si un numero es primo o no
 
-### **Requerimientos**
-No tiene requerimientos
-
-### **Anotaciones**
+### **Observaciones**
 Funciono directamente
-
-### **[Codigo 86: Is Prime](isPrime86.sh)**
 
 ```bash
 #!/bin/bash
@@ -41,9 +36,5 @@ else
 fi
 exit 0
 ```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
 
-### **Salidas del codigo**
-
-![Salida.png](Salida.png)
-
-**[<- Regresar](../README.md)**
