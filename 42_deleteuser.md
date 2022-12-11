@@ -1,3 +1,11 @@
+# Codigo 42: MKLOCATEDB
+
+## ¿Que hace?
+Elimina un usuario y todo lo que tenga que ver con el
+
+### **Observaciones**
+Tiene que ser ejecutado como root
+```bash
 #!/bin/bash
 
 #Este vodigo no ha sido probado, ya que puede eliminar mi usuario de manera
@@ -50,3 +58,6 @@ echo "Account $1 (uid $uid) has been deleted, and their home directory "
 echo "($homedir/$1) has been removed."
 
 exit 0
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
