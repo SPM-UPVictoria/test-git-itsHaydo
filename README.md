@@ -1,3 +1,3 @@
 # Codes Book: Wicked Cool Shell
-## Jesus Alfonso Castillo Gallegos
-## Unicersidad Politecnica de Victoria
+### Jesus Alfonso Castillo Gallegos
+## Universidad Politecnica de Victoria
