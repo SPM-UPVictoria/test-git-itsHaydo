@@ -1,3 +1,11 @@
+# Codigo 59: moviedata
+
+## ¿Que hace?
+Dado el nombre de una pelicula, la muestra con la descriptcion de la pagina IMDB
+### **Observaciones**
+Ya que IMDB cambio algunas cosas de su pagina, hace lo que tiene que hacer pero a su vez imprime codigo en HTML por la cosas que cambio
+
+```bash
 #!/bin/bash
 
 titleurl="http://www.imdb.com/title/tt"
@@ -51,3 +59,5 @@ elif [ ! -z "$(grep '<h1 class="findHeader">Displaying' $tempout)" ] ; then
 fi
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
