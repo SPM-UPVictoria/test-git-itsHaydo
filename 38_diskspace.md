@@ -1,3 +1,13 @@
+# Codigo 38: DiskSpace
+
+## ¿Que hace?
+
+
+### **Observaciones**
+Tiene que ser ejecutado como root
+
+```bash
+
 #!/bin/bash
 tempfile="/tmp/available.$$"
 
@@ -13,3 +23,4 @@ EOF
 
 df -k | awk -f $tempfile
 exit 0
+```
