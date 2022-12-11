@@ -1,3 +1,13 @@
+# Codigo 52: archivedir
+
+## ¿Que hace?
+Hace un backup en .tgz de un directorio
+
+### **Observaciones**
+Funciono directamente
+
+```bash
+
 #!/bin/bash
 maxarchivedir=10           
 compress=gzip              
@@ -41,3 +51,5 @@ else
 fi
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
