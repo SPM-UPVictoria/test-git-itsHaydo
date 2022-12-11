@@ -1,3 +1,12 @@
+# Codigo 34: bestCompress
+
+## ¿Que hace?
+Compara varias manera de comprimir un archivo y elije la mejor
+
+### **Observaciones**
+Se ejecuta directamente
+```bash
+
 #!/bin/bash
 Z="compress"     gz="gzip"     bz="bzip2"
 Zout="/tmp/bestcompress.$$.Z"
@@ -52,4 +61,8 @@ do
   esac
 done
 
+
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
+
