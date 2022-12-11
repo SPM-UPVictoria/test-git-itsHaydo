@@ -1,3 +1,13 @@
+# Codigo 54: getlinks
+
+## ¿Que hace?
+Obtiene los subenlaces de una pagina web dada
+
+### **Observaciones**
+Requiere estar conectado a internet
+
+```bash
+
 #!/bin/bash
 
 if [ $# -eq 0 ] ; then
@@ -38,3 +48,5 @@ sed -n '/^References$/,$p' | \
 eval $lastcmd
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
