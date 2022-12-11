@@ -34,4 +34,8 @@ initializeANSI()
 initializeANSI
 
 ```
+### **Resultados**
+
+![Salida.png](capturas/11.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
