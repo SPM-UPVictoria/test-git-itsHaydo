@@ -1,3 +1,13 @@
+# Codigo 66: getdope
+
+## ¿Que hace?
+envia en un correo electronico una pagina web
+
+### **Observaciones**
+No funciona como deberia, ya que curl indica que el formato del URL esta equivocado.
+
+```bash
+
 #!/bin/bash
 now="$(date +%y%m%d)"
 start="http://www.straightdope.com/ "
@@ -13,7 +23,8 @@ To: $to
 
 EOF
 
-curl "$URL"
-) | /usr/sbin/sendmail -t
+curl "$URL") | /usr/sbin/sendmail -t
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
