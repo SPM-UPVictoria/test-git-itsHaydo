@@ -6,7 +6,6 @@ Da las coordenadas
 ### **Observaciones**
 Ninugno
 
-## Codigo 1 del script 22
 ```bash
 #!/bin/bash
 
