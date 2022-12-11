@@ -1,3 +1,3 @@
-# test-git-itsHaydo
-test-git-itsHaydo created by GitHub Classroom
-## hola probando
+# Codes Book: Wicked Cool Shell
+## Jesus Alfonso Castillo Gallegos
+## Unicersidad Politecnica de Victoria
