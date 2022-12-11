@@ -1,3 +1,12 @@
+# Codigo 29: showFile
+
+## ¿Que hace?
+El primer codigo genera un documento.db que contiene la mayoria de documentos de tu computador. Despues con el segundo codigo, permite buscar los que tengan ciertos caracteres
+
+### **Observaciones**
+Tiene que ser ejecutado como root
+
+```bash
 #!/bin/bash
 width=72
 for input
@@ -23,3 +32,6 @@ do
 done | ${PAGER:more}
 
 exit 0
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
+
