@@ -1,7 +1,7 @@
 # Codigo 22: tooLong
 
 ## ¿Que hace?
-Convierte las primeras 72 lineas de un archicvo de texto para que puedan ser interpretadas
+Convierte las primeras 72 lineas de un archivo de texto para que puedan ser interpretadas
 
 ### **Observaciones**
 El codigo no tiene ninguna observacion
