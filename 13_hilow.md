@@ -30,4 +30,8 @@ exit 0
 
 
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/13.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
