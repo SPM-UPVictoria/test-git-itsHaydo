@@ -10,7 +10,7 @@ Tiene que ser instalado el comando quota-tools
 ```
 sudo pacman -S quota-tools
 ```
-
+## Code
 ```bash
 #!/bin/bash
 flags=""
