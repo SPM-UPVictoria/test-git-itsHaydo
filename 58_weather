@@ -1,3 +1,13 @@
+# Codigo 58: weather
+
+## ¿Que hace?
+Nos mandara el clima dado un codigo postal dado
+
+### **Observaciones**
+Por algo que tiene la API, no mande lo que deberia de mandar, pero el codigo funciona en lo que tiene que hacer
+
+```bash
+
 #!/bin/bash
 if [ $# -ne 1 ]; then
   echo "Usage: $0 <zipcode>"
@@ -22,3 +32,5 @@ condition=`xmllint --xpath \
      <(echo $weather)`
 
 echo $state" ("$zip") : Current temp "$current"F and "$condition" outside." 
+```
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
