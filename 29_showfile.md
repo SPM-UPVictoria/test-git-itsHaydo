@@ -1,10 +1,10 @@
 # Codigo 29: showFile
 
 ## ¿Que hace?
-El primer codigo genera un documento.db que contiene la mayoria de documentos de tu computador. Despues con el segundo codigo, permite buscar los que tengan ciertos caracteres
+Muestra el contenido de un archivo
 
 ### **Observaciones**
-Tiene que ser ejecutado como root
+No hay ninguna observación
 
 ```bash
 #!/bin/bash
