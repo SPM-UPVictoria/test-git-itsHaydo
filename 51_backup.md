@@ -1,3 +1,12 @@
+# Codigo 51: Backup
+
+## ¿Que hace?
+Genera un Backup en un archivo.zip de un directorio
+
+### **Observaciones**
+Funciona directamente, solo agregar el nombre del directorio a realizar Backup
+```bash
+
 #!/bin/bash
 
 compress="bzip2"   
@@ -52,3 +61,6 @@ if [ "$noinc" = "0" -a "$failure" = "0" ] ; then
   touch -t $timestamp $tsfile
 fi
 exit 0
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
