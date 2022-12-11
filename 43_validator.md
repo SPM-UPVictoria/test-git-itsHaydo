@@ -1,3 +1,22 @@
+# Codigo 43: validator
+
+## ¿Que hace?
+Elije un script del archivo 'Library' y lo selecciona
+
+### **Observaciones**
+Los nombres de los archivos dependen de cada caso y cada nombres
+
+## Libreria 'Library'
+```bash
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/5_validint
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/6_validfloat
+. `dirname "$(readlink -f "${BASH_SOURCE[0]}")"`/8_echon
+
+```
+
+## Code
+```bash
+
 #!/bin/bash
 
 errors=0
@@ -58,3 +77,6 @@ else
 fi
 
 exit 0
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
