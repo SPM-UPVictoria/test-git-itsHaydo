@@ -1,3 +1,12 @@
+# Codigo 11: AnsiColor
+
+## ¿Que hace?
+Implementar comando para visualizar la salida de texto modificada en colores
+
+### **Anotaciones**
+Al ejecutarlo no funciona, ya que he modificado mi terminal en archlinux para que sea mas util, estas utilidades no me permiten mostrar texto en algun otro color
+
+```bash
 #!/bin/bash
 
 archivedir="$HOME/.deleted-files"
@@ -37,3 +46,6 @@ do
 done
 
 exec $realrm $flags "$@"      
+```
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
