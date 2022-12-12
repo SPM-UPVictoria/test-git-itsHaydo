@@ -16,3 +16,7 @@ curl -s -dump "$baseURL/$1.html" | \
    cut -d\( -f2 | cut -d\) -f1
 
 exit 0
+   
+   ### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/11.png)
