@@ -25,4 +25,8 @@ fi
 exec find "$musiclib" -type d -mindepth 2 -maxdepth 2 \! -name '.*' -print |
    sed "s|$musiclib/||"
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/81.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
