@@ -44,6 +44,9 @@ done
 
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/98.png)
 
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
