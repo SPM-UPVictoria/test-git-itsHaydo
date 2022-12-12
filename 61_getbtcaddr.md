@@ -27,5 +27,10 @@ echo -e "\tCurrent balance: "$balance
 echo -e "\tSatoshis sent: "$sent
 echo -e "\tSatoshis recv: "$recv
 ```
+
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/61.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
 
