@@ -61,4 +61,8 @@ echo "Account $1 has been suspended."
 exit 0
 ```
 
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/41.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
