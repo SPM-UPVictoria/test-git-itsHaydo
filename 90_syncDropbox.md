@@ -53,4 +53,9 @@ fi
 
 exec ./startDropbox89.sh "Dropbox.com"
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/90.png)
+
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
