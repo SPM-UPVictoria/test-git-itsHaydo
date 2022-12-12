@@ -62,5 +62,8 @@ if [ "$noinc" = "0" -a "$failure" = "0" ] ; then
 fi
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/51.png)
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
