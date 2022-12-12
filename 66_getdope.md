@@ -27,4 +27,9 @@ curl "$URL") | /usr/sbin/sendmail -t
 
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/66.png)
+
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
