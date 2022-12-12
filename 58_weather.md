@@ -33,4 +33,8 @@ condition=`xmllint --xpath \
 
 echo $state" ("$zip") : Current temp "$current"F and "$condition" outside." 
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/58.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
