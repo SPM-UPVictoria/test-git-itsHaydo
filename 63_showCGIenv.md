@@ -22,4 +22,9 @@ echo "(end of input stream)</pre></body></html>"
 
 exit 0
 ```
+
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/63.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
