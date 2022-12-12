@@ -31,4 +31,9 @@ echo "</td></tr></table></center></body></html>"
 
 exit 0
 ```
+
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/65.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
