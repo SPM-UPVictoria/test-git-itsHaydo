@@ -118,4 +118,8 @@ echo "Done. Found $totalerrors errors in $entries crontab entries."
 
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/48.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
