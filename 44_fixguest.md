@@ -31,4 +31,9 @@ rm -rf * $(find . -name ".[a-zA-Z0-9]*" -print)
 cp -Rp ..template/* .
 exit 0
 ```
+
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/44.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
