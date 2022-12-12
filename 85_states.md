@@ -51,4 +51,8 @@ done
 echo "You got $correct out of $total presented."
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/85.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
