@@ -38,6 +38,9 @@ echo "Created new watermarked image file $newfilename"
 exit 0
 ```
 
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/95.png)
 
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
