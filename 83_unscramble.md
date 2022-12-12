@@ -1,10 +1,11 @@
-# Codigo 82: open2
+# Codigo 83: unscreamble
 
 ## ¿Que hace?
-Es como el comando open pero de una mejor manera
+De un archivo de texto toma una lista de palabras, agarra una sola y la desordena, tenemos que adivinar que palabra es
 
 ### **Observaciones**
-Funicona directamente
+Ninguna
+
 ```bash
 
 #!/bin/bash
@@ -77,6 +78,6 @@ exit 0
 ```
 ### **Resultados**
 
-![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/82.png)
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/83.png)
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
