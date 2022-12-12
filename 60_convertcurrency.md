@@ -1,4 +1,4 @@
-# Codigo 19: MKLOCATEDB
+# Codigo 60: convertCurrency
 
 ## ¿Que hace?
 Hace un cambio de monedas entre las mas comunes
@@ -49,4 +49,8 @@ $lynx -source "$url?a=$amount&from=$basecurrency&to=$targetcurrency" | \
 
 exit 0
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/60.png)
+
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
