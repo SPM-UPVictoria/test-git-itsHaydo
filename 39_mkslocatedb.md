@@ -83,6 +83,9 @@ fi
 
 exec grep -i "$1" $locatedb
 ```
+### **Resultados**
+
+![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/39.png)
 
 **[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
 
