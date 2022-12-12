@@ -3,6 +3,7 @@
 ## ¿Que hace?
 El primer codigo genera un documento.db que contiene la mayoria de documentos de tu computador. Despues con el segundo codigo, permite buscar los que tengan ciertos caracteres
 
+```bash
 ### **Observaciones**
 Tiene que ser ejecutado como root
 
@@ -16,7 +17,9 @@ curl -s -dump "$baseURL/$1.html" | \
    cut -d\( -f2 | cut -d\) -f1
 
 exit 0
-   
-   ### **Resultados**
+```
 
+### **Resultados**
 ![](https://github.com/SPM-UPVictoria/test-git-itsHaydo/blob/main/capturas/capturas/11.png)
+
+**[Anterior](https://github.com/SPM-UPVictoria/test-git-itsHaydo)**
